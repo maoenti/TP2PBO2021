@@ -1,0 +1,15 @@
+Saya Muhammad Melvyn Maunti mengerjakan TP 2 dalam mata kuliah Desain dan Pemrograman Berorentiasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah di spesifikasikan.	Aamiin.
+
+Kesulitan:
+1. Menampilkan data dari database ke table
+
+Hal Baru:
+1. Connect database sql dalam bahasa java
+2. Designing JForm
+3. Menggunakan NetBeans
+
+Fitur yang sudah:
+1. Foto
+2. Koneksi DB
+3. Memasukkan data ke DB
+4. Panel form, tabel, info
